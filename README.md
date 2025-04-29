@@ -1,21 +1,36 @@
-## Olá eu sou Lucas Gabriel! Estudando de Sistemas de Informação e atualmente aprendendo Java e NodeJs
+## 👋 Olá! Eu sou o Lucas Gabriel
 
-[tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+🎓 Estudante de **Sistemas de Informação**, apaixonado por tecnologia e em constante evolução!  
+💻 Atualmente aprendendo **Java** e **Node.js**, com foco em desenvolvimento web e mobile.  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luk.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javas-plain.svg">
-  <img align="center" alt="Luk-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Luk-Nodet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/nodejs-original.svg">
-  <img align="center" alt="Luk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luk-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/lukoide_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucasggpassos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
+
+## 🌐 Redes Sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lukoide_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasggpassos)
+
+---
+
+## 💻 Tecnologias que utilizo
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YgorNogueira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![Lucas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YgorNogueira&theme=dark&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorNogueira&theme=dark&hide_border=false&layout=compact)
+
+---
+
+🚀 *Em busca de novos desafios e oportunidades para crescer como desenvolvedor!*
